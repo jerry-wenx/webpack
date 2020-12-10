@@ -1,0 +1,13 @@
+p{
+    color: blue;
+    background-color: yellow;
+}
+
+
+body div {
+  width: 120px;
+  height: 130px;
+  background-color: blue;
+}
+
+body{color:red}
